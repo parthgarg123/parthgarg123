@@ -1,3 +1,4 @@
+![Banner](https://github.com/parthgarg123/parthgarg123/blob/main/dead!.png)
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A confused developer from India!</h3>
 
