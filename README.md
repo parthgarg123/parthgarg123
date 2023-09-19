@@ -22,4 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthgarg123&" alt="parthgarg123" /></p>
 
+<img src="https://github.com/parthgarg123/parthgarg123/blob/main/giphy1.gif" width = 192 />
+<img src="https://github.com/parthgarg123/parthgarg123/blob/main/giphy2.gif" width = 192 />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthgarg123&label=Hits&color=0e75b6&style=flat" alt="parthgarg123" /> </p>
+
