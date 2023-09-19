@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ML, OpenCV**
 
-- 👨‍💻 All of my projects are available at [https://github.com/parthgarg123?tab=repositories](https://github.com/parthgarg123?tab=repositories)
+- 👨‍💻 All of my projects are available at [Here!](https://github.com/parthgarg123?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
